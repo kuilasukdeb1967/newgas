@@ -1,0 +1,2 @@
+# newgas
+ethgass fee high
